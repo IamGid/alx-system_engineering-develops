@@ -1,1 +1,1 @@
-0x00-shell_basics
+This repository contains solutions to shell tasks
